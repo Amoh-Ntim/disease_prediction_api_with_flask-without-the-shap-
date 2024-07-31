@@ -1,0 +1,153 @@
+2024-07-31 19:30:23,187:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-31 19:30:23,188:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-31 19:30:23,188:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-31 19:30:23,188:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-07-31 19:30:37,695:INFO:Initializing load_model()
+2024-07-31 19:30:37,695:INFO:load_model(model_name=C:\Users\user\Desktop\final year project\new (using pycaret)\refined files\deployment files\disease_prediction_api_with_flask(without the shap)\app\../models/diabetes_prediction_model, platform=None, authentication=None, verbose=True)
+2024-07-31 19:30:38,830:WARNING:C:\Users\user\anaconda3\envs\MachineLearning\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.0', 'setuptools': '69.5.1', 'pycaret': '3.3.2', 'IPython': '8.24.0', 'ipywidgets': '8.1.3', 'tqdm': '4.64.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.10.0', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.31.0', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.1', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-07-31 19:30:38,831:INFO:Initializing load_model()
+2024-07-31 19:30:38,832:INFO:load_model(model_name=C:\Users\user\Desktop\final year project\new (using pycaret)\refined files\deployment files\disease_prediction_api_with_flask(without the shap)\app\../models/best_heart_disease_model, platform=None, authentication=None, verbose=True)
+2024-07-31 19:30:38,863:WARNING:C:\Users\user\anaconda3\envs\MachineLearning\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.0', 'setuptools': '69.5.1', 'pycaret': '3.3.2', 'IPython': '8.24.0', 'ipywidgets': '8.1.3', 'tqdm': '4.64.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.4', 'scipy': '1.10.0', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.3.0', 'numba': '0.59.1', 'requests': '2.31.0', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.22.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.8', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.9', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.1.2', 'setuptools': '67.7.2', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.66.4', 'numpy': '1.25.2', 'pandas': '2.0.3', 'jinja2': '3.1.4', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.0', 'imblearn': '0.12.3', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.1', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.15.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.2', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.5', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.10.12', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2024-07-31 19:30:38,864:INFO:Initializing load_model()
+2024-07-31 19:30:38,864:INFO:load_model(model_name=C:\Users\user\Desktop\final year project\new (using pycaret)\refined files\deployment files\disease_prediction_api_with_flask(without the shap)\app\../models/best_kidney_disease_model, platform=None, authentication=None, verbose=True)
+2024-07-31 19:30:38,952:INFO:Initializing load_model()
+2024-07-31 19:30:38,952:INFO:load_model(model_name=C:\Users\user\Desktop\final year project\new (using pycaret)\refined files\deployment files\disease_prediction_api_with_flask(without the shap)\app\../models/best_liver_disease_model, platform=None, authentication=None, verbose=True)
+2024-07-31 19:47:37,243:INFO:Initializing predict_model()
+2024-07-31 19:47:37,244:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EF3F850>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['BMI', 'Age', 'GenHlth', 'Income',
+                                             'MentHlth', 'PhysHlth',
+                                             'Education', 'Sex', 'HighChol',
+                                             'HvyAlcoholConsump'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839EF42660>)
+2024-07-31 19:47:37,244:INFO:Checking exceptions
+2024-07-31 19:47:37,244:INFO:Preloading libraries
+2024-07-31 19:47:37,309:INFO:Set up data.
+2024-07-31 19:47:37,391:INFO:Set up index.
+2024-07-31 19:56:26,635:INFO:Initializing predict_model()
+2024-07-31 19:56:26,635:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EE76890>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['BMI', 'Age', 'GenHlth', 'Income',
+                                             'MentHlth', 'PhysHlth',
+                                             'Education', 'Sex', 'HighChol',
+                                             'HvyAlcoholConsump'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839C0628E0>)
+2024-07-31 19:56:26,635:INFO:Checking exceptions
+2024-07-31 19:56:26,635:INFO:Preloading libraries
+2024-07-31 19:56:26,636:INFO:Set up data.
+2024-07-31 19:56:26,641:INFO:Set up index.
+2024-07-31 20:01:34,640:INFO:Initializing predict_model()
+2024-07-31 20:01:34,640:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EE6D9D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'sex', 'cp', 'trestbps',
+                                             'chol', 'fbs', 'restecg',
+                                             'thalach', 'exang', 'oldpeak',
+                                             'slope', 'ca', 'thal'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 LogisticRegression(max_iter=1000, random_state=8665))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839C062980>)
+2024-07-31 20:01:34,640:INFO:Checking exceptions
+2024-07-31 20:01:34,640:INFO:Preloading libraries
+2024-07-31 20:01:34,640:INFO:Set up data.
+2024-07-31 20:01:34,644:INFO:Set up index.
+2024-07-31 20:03:18,983:INFO:Initializing predict_model()
+2024-07-31 20:03:18,984:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EE741D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['BMI', 'Age', 'GenHlth', 'Income',
+                                             'MentHlth', 'PhysHlth',
+                                             'Education', 'Sex', 'HighChol',
+                                             'HvyAlcoholConsump'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('actual_estimator',
+                 GradientBoostingClassifier(random_state=42))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839C062980>)
+2024-07-31 20:03:18,984:INFO:Checking exceptions
+2024-07-31 20:03:18,984:INFO:Preloading libraries
+2024-07-31 20:03:18,985:INFO:Set up data.
+2024-07-31 20:03:18,991:INFO:Set up index.
+2024-07-31 20:04:59,366:INFO:Initializing predict_model()
+2024-07-31 20:04:59,367:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EE71CD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Age', 'Gender', 'Total_Bilirubin',
+                                             'Direct_Bilirubin',
+                                             'Alkaline_Phosphotase',
+                                             'Alamine_Aminotransferase',
+                                             'Aspartate_Aminotransferase',
+                                             'Total_Protiens', 'Albumin',
+                                             'Albumin_and_Globulin_Ratio'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('balance',
+                 TransformerWrapper(transformer=FixImbalancer(estimator=SMOTE()))),
+                ('actual_estimator',
+                 ExtraTreesClassifier(n_jobs=-1, random_state=4824))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839C062980>)
+2024-07-31 20:04:59,367:INFO:Checking exceptions
+2024-07-31 20:04:59,367:INFO:Preloading libraries
+2024-07-31 20:04:59,367:INFO:Set up data.
+2024-07-31 20:04:59,370:INFO:Set up index.
+2024-07-31 20:07:02,443:INFO:Initializing predict_model()
+2024-07-31 20:07:02,443:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839EE6DD50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bp', 'sg', 'al', 'su',
+                                             'rbc', 'pc', 'pcc', 'ba', 'bgr',
+                                             'bu', 'sc', 'sod', 'pot', 'hemo',
+                                             'pcv', 'wc', 'rc', 'htn'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839EF43F60>)
+2024-07-31 20:07:02,443:INFO:Checking exceptions
+2024-07-31 20:07:02,443:INFO:Preloading libraries
+2024-07-31 20:07:02,444:INFO:Set up data.
+2024-07-31 20:07:02,450:INFO:Set up index.
+2024-07-31 20:10:00,565:INFO:Initializing predict_model()
+2024-07-31 20:10:00,565:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001839F35F8D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bp', 'sg', 'al', 'su',
+                                             'rbc', 'pc', 'pcc', 'ba', 'bgr',
+                                             'bu', 'sc', 'sod', 'pot', 'hemo',
+                                             'pcv', 'wc', 'rc', 'htn'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('actual_estimator',
+                 RandomForestClassifier(n_jobs=-1, random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001839F1922A0>)
+2024-07-31 20:10:00,565:INFO:Checking exceptions
+2024-07-31 20:10:00,565:INFO:Preloading libraries
+2024-07-31 20:10:00,566:INFO:Set up data.
+2024-07-31 20:10:00,572:INFO:Set up index.
